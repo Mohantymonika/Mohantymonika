@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohantymonika
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++ and Java .
-- 💞️ I’m looking to collaborate on C++
+- 🌱 I’m learning to become a good Java Full Stack Developer.
+- 💞️ I’m looking to collaborate on Java
 - 📫 you can reach me on Mail - mohantymonika28@gmail.com
 
 <!---
